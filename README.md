@@ -21,7 +21,7 @@
   <p style="opacity:.8">⚽ Real Madrid · 🗡️ Sanemi & ⚡ Zenitsu</p>
 
   <!-- Anime gif -->
-  <img src="assets/zenitsu.gif" alt="Sanemi / Zenitsu" width="540" style="border-radius:16px; margin-top: 6px;" />
+  <img src="assets/tech.gif" alt="Sanemi / Zenitsu" width="540" style="border-radius:16px; margin-top: 6px;" />
 
 </div>
 
