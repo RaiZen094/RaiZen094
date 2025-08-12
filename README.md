@@ -76,9 +76,10 @@
 <!-- METRICS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaiZen094&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaiZen094&theme=transparent" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaiZen094&theme=transparent&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&theme=transparent&langs_count=8" height="150" />
 </div>
+
 
 
 ---
