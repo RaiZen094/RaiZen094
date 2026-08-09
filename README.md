@@ -24,6 +24,8 @@
 ⚽ **Real Madrid** &nbsp;•&nbsp; 🗡️ **Sanemi** &nbsp;•&nbsp; ⚡ **Zenitsu**
 
 <br/>
+<!-- Anime / Tech GIF -->
+<img src="assets/tech.gif" alt="Sanemi / Zenitsu Tech GIF" width="540" />
 
 <!-- SOCIAL / PROFILE BADGES -->
 
