@@ -72,7 +72,7 @@ currently_exploring:
   - Clean Developer Experience
 
 philosophy: "If it's not automated, it's a chore."
-````
+
 
 ---
 
