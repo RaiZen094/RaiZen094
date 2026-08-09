@@ -25,7 +25,8 @@
 
 <br/>
 <!-- Anime / Tech GIF -->
-<img src="assets/tech.gif" alt="Sanemi / Zenitsu Tech GIF" width="540" />
+<img src="assets/tech.gif" alt="Sanemi / Zenitsu Tech GIF" width="720" />
+<br/><br/>
 
 <!-- SOCIAL / PROFILE BADGES -->
 
