@@ -173,9 +173,7 @@ philosophy: "If it's not automated, it's a chore."
 
 ---
 
-<div align="center">
 
-# 📊 GitHub Command Center
 
 <div align="center">
 
@@ -207,7 +205,7 @@ philosophy: "If it's not automated, it's a chore."
 ### 🧬 Developer Overview
 
 <img
-  width="90%"
+  width="70%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiZen094&theme=github_dark&animation=load"
 />
 
@@ -216,12 +214,12 @@ philosophy: "If it's not automated, it's a chore."
 ### 🔥 Language Distribution
 
 <img
-  width="48%"
+  width="36%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaiZen094&theme=github_dark&animation=load"
 />
 
 <img
-  width="48%"
+  width="36%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaiZen094&theme=github_dark&animation=load"
 />
 
