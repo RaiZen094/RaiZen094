@@ -198,8 +198,8 @@ philosophy: "If it's not automated, it's a chore."
 ### 💻 Languages I Work With
 
 <img
-  width="48%"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6A6&text_color=C9D1D9"
+  height="175"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&langs_count=6&card_width=460&hide=Yacc,Lex,Assembly&hide_border=true&bg_color=0D1117&title_color=58A6A6&text_color=C9D1D9"
 />
 
 <br/><br/>
