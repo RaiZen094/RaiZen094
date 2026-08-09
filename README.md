@@ -1,356 +1,215 @@
-<!--
-  ============================================================
-                         RaiZen094
-         Software Engineering • Backend • DevOps
-  ============================================================
--->
+````md
+<!-- =========================================================
+     GitHub Profile README — RaiZen094
+     Theme: Dark • Cyber • Minimal • Anime-inspired
+========================================================== -->
 
 <div align="center">
 
-<h1>Hey, I'm RaiZen 👋</h1>
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:7A5AF8&height=180&section=header&text=RAIZEN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
-<h3>Software Engineer • Full-stack Developer • DevOps Enthusiast</h3>
+<!-- TYPING INTRO -->
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+RaiZen+%F0%9F%91%8B;Full-stack+%26+DevOps+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust;React+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot;Building+things+that+actually+ship+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+</a>
 
-<p>
-  I build things that are
-  <b>clean</b>,
-  <b>scalable</b>,
-  <b>fast</b>,
-  and preferably
-  <b>automated</b>.
-</p>
+<br/>
 
-<p>
-  🎓 BUET CSE &nbsp;•&nbsp;
-  ⚽ Real Madrid &nbsp;•&nbsp;
-  🗡️ Sanemi &nbsp;•&nbsp;
-  ⚡ Zenitsu
-</p>
+### `BUET CSE` • `Full-stack` • `Backend` • `DevOps`
 
-<br>
+⚽ **Real Madrid** &nbsp;•&nbsp; 🗡️ **Sanemi** &nbsp;•&nbsp; ⚡ **Zenitsu**
 
-<img
-  src="assets/tech.gif"
-  alt="Sanemi / Zenitsu"
-  width="540"
-/>
+<br/>
 
-<br><br>
+<!-- SOCIAL / PROFILE BADGES -->
 
 <a href="https://raizen094.github.io/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-<a href="mailto:raiyan.fzs845@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
-    alt="Email"
-  />
-</a>
-
 <a href="https://www.linkedin.com/in/golam-mostofa-4b5357359">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:raiyan.fzs845@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=RaiZen094&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=RaiZen094&style=flat-square&color=7A5AF8&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/RaiZen094?style=flat-square&color=70A5FD&labelColor=111827&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-## `> whoami`
-
-```text
-raiZen@github:~$ ./about_me
-
-🎓  BUET CSE
-💻  Full-stack • Backend • DevOps
-🧠  C • C++ • Java • Python • Rust
-⚙️  Turning ideas into production-ready systems
-☁️  Containers • CI/CD • Cloud • Automation
-🗄️  PostgreSQL • Oracle
-
-raiZen@github:~$ echo $PHILOSOPHY
-
-Build it.
-Break it.
-Understand it.
-Automate it.
-Ship it.
-```
-
----
-
-<div align="center">
-
-<h2>⚡ Engineering Arsenal</h2>
-
-<p><i>The tools I like turning caffeine into software with.</i></p>
-
-<h3>Languages</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="C" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="55" alt="Rust" />
-
-<br><br>
-
-<h3>Frontend</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="Next.js" />
-
-<br><br>
-
-<h3>Backend</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="Spring Boot" />
-
-<br><br>
-
-<h3>Databases</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" alt="Oracle" />
-
-<br><br>
-
-<h3>DevOps & Cloud</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="Docker" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55" alt="Azure" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="55" alt="GitHub Actions" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" />
-
-</div>
-
----
-
-## 🛠️ What I Build
-
-### 🌐 Full-stack Applications
-
-I like building systems where the frontend looks good **and** the backend can survive contact with reality.
-
-```text
-React / Next.js
-       │
-       ▼
-    REST API
-       │
-       ▼
- Node / Spring
-       │
-       ▼
-PostgreSQL / Oracle
-```
-
-### ⚙️ Backend Systems
-
-I care about the parts users usually never see:
-
-- API design
-- Authentication & authorization
-- Data modeling
-- Validation
-- Error handling
-- Database design
-- Testing
-- Performance
-- Maintainability
-- Developer experience
-
-### 🐳 DevOps
-
-Turning:
-
-```text
-"It works on my machine."
-```
-
-into:
-
-```text
-"It works everywhere."
-```
-
-Containerized environments, automated pipelines and repeatable deployments.
-
-### ☁️ Delivery
-
-```text
-       CODE
-         │
-         ▼
-      GitHub
-         │
-         ▼
-   CI / Testing
-         │
-         ▼
-      Docker
-         │
-         ▼
-       Azure
-         │
-         ▼
-   Production 🚀
-```
-
----
-
-<div align="center">
-
-<h2>🔥 Current Focus</h2>
-
-</div>
+## ⚡ About Me
 
 ```yaml
+name: RaiZen
+location: Bangladesh 🇧🇩
+
+focus:
+  - Full-stack Engineering
+  - Backend Development
+  - DevOps & Cloud
+  - Software Architecture
+  - Problem Solving
+
+languages:
+  - C++
+  - Java
+  - Python
+  - Rust
+
 currently_exploring:
+  - Typed APIs
+  - Scalable Backend Systems
+  - Fast CI/CD Pipelines
+  - Clean Developer Experience
 
-  backend:
-    - typed APIs
-    - scalable service design
-    - clean architecture
-    - production-ready systems
-
-  devops:
-    - CI/CD pipelines
-    - containerized workflows
-    - deployment automation
-    - cloud infrastructure
-
-  engineering:
-    - maintainable code
-    - better developer experience
-    - strong fundamentals
-    - faster feedback loops
-
-rule:
-  - "If it can be automated, automate it."
-```
-
----
-
-## 🧠 Engineering Mindset
-
-| `01` Understand | `02` Build | `03` Break | `04` Improve |
-|:---:|:---:|:---:|:---:|
-| Understand the problem before choosing the technology. | Turn the idea into something that actually works. | Find assumptions that don't survive reality. | Refactor, automate, learn and repeat. |
-
----
-
-## ⚙️ Development Loop
-
-```text
-                ┌──────────────┐
-                │     IDEA     │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │    DESIGN    │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │    BUILD     │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │     TEST     │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │   AUTOMATE   │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │     SHIP     │
-                └──────┬───────┘
-                       │
-                       ▼
-                ┌──────────────┐
-                │   IMPROVE    │
-                └──────┬───────┘
-                       │
-                       └──────────── ↻
-```
-
----
-
-## 🧩 Things I Care About
-
-```diff
-+ Clean APIs
-+ Strong fundamentals
-+ Maintainable code
-+ Predictable systems
-+ Good abstractions
-+ Useful automation
-+ Reproducible environments
-+ Simple solutions to complicated problems
-
-- Unnecessary complexity
-- Repetitive manual work
-- Magic nobody understands
-- "We'll fix it later"
-- Production debugging at 3 AM
-```
+philosophy: "If it's not automated, it's a chore."
+````
 
 ---
 
 <div align="center">
 
-<h2>📊 GitHub Transmission</h2>
+## 🧰 Tech Arsenal
 
-<br>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,rust&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi&theme=dark" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,azure,githubactions,git,github,linux&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,maven,npm&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 What I Build
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-stack Systems
+
+* React / Next.js applications
+* REST APIs
+* Authentication & authorization
+* Database-driven applications
+* Clean frontend ↔ backend integration
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+* Java + Spring Boot
+* Python + FastAPI
+* Node.js services
+* PostgreSQL / Oracle
+* API & database design
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ DevOps
+
+* Dockerized applications
+* GitHub Actions
+* Automated CI/CD
+* Azure deployment
+* Reproducible environments
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Engineering
+
+* Data structures & algorithms
+* Software architecture
+* Clean code
+* Testing
+* Performance-focused development
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Command Center
+
+### ⚡ Profile Statistics
+
+<p>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=RaiZen094&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9&ring_color=70A5FD"
+  />
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=RaiZen094&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github"
-  height="165"
-  alt="GitHub Stats"
+ width="49%"
+ src="https://streak-stats.demolab.com?user=RaiZen094&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
 />
 
+</p>
+
+### 💻 Languages I Work With
+
 <img
-  src="https://streak-stats.demolab.com?user=RaiZen094&theme=transparent&hide_border=true"
-  height="165"
-  alt="GitHub Streak"
+width="55%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9"
 />
 
-<br><br>
+<br/><br/>
+
+### 🏆 GitHub Achievements
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&theme=transparent&hide_border=true&langs_count=10"
-  height="165"
-  alt="Top Languages"
+width="100%"
+src="https://github-profile-trophy.vercel.app/?username=RaiZen094&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+/>
+
+<br/>
+
+### 📈 Contribution Activity
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=RaiZen094&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FFFFFF&area=true&area_color=7A5AF8&hide_border=true&custom_title=RaiZen's%20Contribution%20Graph"
 />
 
 </div>
@@ -359,104 +218,61 @@ rule:
 
 <div align="center">
 
-<h2>📈 Contribution Activity</h2>
+## 🔥 Current Mission
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RaiZen094&theme=github-compact&hide_border=true&area=true"
-  width="95%"
-  alt="GitHub Contribution Graph"
-/>
+</div>
+
+```text
+Design clean APIs       ███████████████████░   90%
+Build reliable systems  ██████████████████░░   85%
+DevOps automation       ████████████████░░░░   80%
+DSA & problem solving   ████████████████░░░░   80%
+Rust exploration        ██████████░░░░░░░░░░   50%
+```
+
+<div align="center">
+
+> ### Build. Break. Learn. Rebuild.
+>
+> *Good software should be clean enough to understand,*
+> *fast enough to matter, and automated enough to scale.*
 
 </div>
 
 ---
 
-## 💭 Code Philosophy
-
-```python
-class RaiZen:
-
-    mindset = [
-        "understand the problem",
-        "build the simplest correct solution",
-        "measure before optimizing",
-        "automate repetitive work",
-        "keep learning"
-    ]
-
-    def solve(self, problem):
-        understand(problem)
-        design()
-        build()
-        test()
-        break_things()
-        improve()
-        ship()
-
-        return "better than yesterday"
-```
-
----
-
-## 🎮 Outside the Terminal
-
-```text
-football       → Real Madrid ⚽
-anime          → Demon Slayer
-favorites      → Sanemi 🗡️ + Zenitsu ⚡
-debugging      → print() until enlightenment
-automation     → absolutely
-coffee         → dependency
-```
-
----
-
 <div align="center">
 
-<h2>🌐 Find Me Somewhere on the Internet</h2>
+## 🤝 Let's Connect
 
-<br>
+Interested in **software engineering**, **backend systems**,
+**DevOps**, **open source**, or just want to talk about tech?
+
+<br/>
 
 <a href="mailto:raiyan.fzs845@gmail.com">
-  <img
-    alt="Email"
-    src="https://img.shields.io/badge/Email-0B0D10?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22"
-  />
+  <img src="https://img.shields.io/badge/Let's_Talk-Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://www.linkedin.com/in/golam-mostofa-4b5357359">
-  <img
-    alt="LinkedIn"
-    src="https://img.shields.io/badge/LinkedIn-0B0D10?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22"
-  />
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://raizen094.github.io/">
-  <img
-    alt="Portfolio"
-    src="https://img.shields.io/badge/Portfolio-0B0D10?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22"
-  />
+  <img src="https://img.shields.io/badge/Explore-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br><br>
+<!-- Replace with the actual resume URL -->
 
-<h3>「 Code. Ship. Learn. Repeat. 」</h3>
+<a href="https://your-cdn.com/Resume_RaiZen094.pdf">
+  <img src="https://img.shields.io/badge/View-Resume-111827?style=for-the-badge&logo=readme&logoColor=70A5FD"/>
+</a>
 
-<p>
-  <sub>
-    ⚡ Powered by curiosity, caffeine, questionable debugging decisions,
-    and an unreasonable desire to automate everything.
-  </sub>
-</p>
+<br/><br/>
 
-<br>
+### ⚡ *"Ship code. Learn fast. Repeat."*
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"
-  width="100%"
-  alt="Footer"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5AF8,50:161B22,100:0D1117&height=110&section=footer"/>
 
 </div>
-
-<!-- EOF -->
+```
