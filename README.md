@@ -177,45 +177,64 @@ philosophy: "If it's not automated, it's a chore."
 
 # 📊 GitHub Command Center
 
+<div align="center">
+
+# 📊 GitHub Command Center
+
 ### ⚡ Profile Statistics
 
-<p>
- <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=RaiZen094&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6A6&icon_color=E3B341&text_color=C9D1D9&ring_color=A78BFA"
+<img
+  width="48%"
+  src="https://github-stats-extended.vercel.app/api?username=RaiZen094&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6A6&icon_color=E3B341&text_color=C9D1D9&ring_color=A78BFA"
 />
 
 <img
-width="49%"
-src="https://streak-stats.demolab.com?user=RaiZen094&hide_border=true&background=0D1117&ring=A78BFA&fire=E3B341&currStreakLabel=58A6A6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
-/>
-
-</p>
-
-### 💻 Languages I Work With
-
-<img
-width="55%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6A6&text_color=C9D1D9"
+  width="48%"
+  src="https://streak-stats.demolab.com?user=RaiZen094&hide_border=true&background=0D1117&ring=A78BFA&fire=E3B341&currStreakLabel=58A6A6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
 />
 
 <br/><br/>
 
-### 🏆 GitHub Achievements
+### 💻 Languages I Work With
 
 <img
-width="100%"
-src="https://github-profile-trophy.vercel.app/?username=RaiZen094&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+  width="48%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6A6&text_color=C9D1D9"
 />
 
-<br/>
+<br/><br/>
+
+### 🧬 Developer Overview
+
+<img
+  width="90%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiZen094&theme=github_dark&animation=load"
+/>
+
+<br/><br/>
+
+### 🔥 Language Distribution
+
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaiZen094&theme=github_dark&animation=load"
+/>
+
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaiZen094&theme=github_dark&animation=load"
+/>
+
+<br/><br/>
 
 ### 📈 Contribution Activity
 
 <img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=RaiZen094&bg_color=0D1117&color=C9D1D9&line=58A6A6&point=E3B341&area=true&area_color=214747&hide_border=true&custom_title=RaiZen's%20Contribution%20Graph"
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RaiZen094&bg_color=0D1117&color=C9D1D9&line=58A6A6&point=E3B341&area=true&area_color=214747&hide_border=true"
 />
+
+</div>
 
 </div>
 
