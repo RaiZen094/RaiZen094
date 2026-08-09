@@ -48,7 +48,7 @@
 
 ## ⚡ About Me
 
-```yaml
+
 name: RaiZen
 location: Bangladesh 🇧🇩
 
