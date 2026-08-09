@@ -7,13 +7,15 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:7A5AF8&height=180&section=header&text=RAIZEN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:214747,100:E3B341&height=180&section=header&text=RAIZEN&fontSize=55&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
 <!-- TYPING INTRO -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+RaiZen+%F0%9F%91%8B;Full-stack+%26+DevOps+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust;React+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot;Building+things+that+actually+ship+%F0%9F%9A%80"
-    alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6A6&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+RaiZen+%F0%9F%91%8B;Full-stack+%26+DevOps+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust;React+%E2%80%A2+Next.js+%E2%80%A2+Spring+Boot;Building+things+that+actually+ship+%F0%9F%9A%80"
+alt="Typing SVG"
+/>
   />
 </a>
 
@@ -178,14 +180,14 @@ philosophy: "If it's not automated, it's a chore."
 ### ⚡ Profile Statistics
 
 <p>
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=RaiZen094&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9&ring_color=70A5FD"
-  />
+ <img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=RaiZen094&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6A6&icon_color=E3B341&text_color=C9D1D9&ring_color=A78BFA"
+/>
 
 <img
- width="49%"
- src="https://streak-stats.demolab.com?user=RaiZen094&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+width="49%"
+src="https://streak-stats.demolab.com?user=RaiZen094&hide_border=true&background=0D1117&ring=A78BFA&fire=E3B341&currStreakLabel=58A6A6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
 />
 
 </p>
@@ -194,7 +196,7 @@ philosophy: "If it's not automated, it's a chore."
 
 <img
 width="55%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=58A6A6&text_color=C9D1D9"
 />
 
 <br/><br/>
@@ -212,7 +214,7 @@ src="https://github-profile-trophy.vercel.app/?username=RaiZen094&theme=tokyonig
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=RaiZen094&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FFFFFF&area=true&area_color=7A5AF8&hide_border=true&custom_title=RaiZen's%20Contribution%20Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=RaiZen094&bg_color=0D1117&color=C9D1D9&line=58A6A6&point=E3B341&area=true&area_color=214747&hide_border=true&custom_title=RaiZen's%20Contribution%20Graph"
 />
 
 </div>
@@ -253,16 +255,16 @@ Interested in **software engineering**, **backend systems**,
 
 <br/>
 
-<a href="mailto:raiyan.fzs845@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Talk-Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="https://raizen094.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=F0F6FC"/>
 </a>
 
 <a href="https://www.linkedin.com/in/golam-mostofa-4b5357359">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6A6"/>
 </a>
 
-<a href="https://raizen094.github.io/">
-  <img src="https://img.shields.io/badge/Explore-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:raiyan.fzs845@gmail.com">
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=E3B341"/>
 </a>
 
 <!-- Replace with the actual resume URL -->
@@ -275,7 +277,8 @@ Interested in **software engineering**, **backend systems**,
 
 ### ⚡ *"Ship code. Learn fast. Repeat."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5AF8,50:161B22,100:0D1117&height=110&section=footer"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:E3B341,25:214747,60:161B22,100:0D1117&height=110&section=footer"/>
 
 </div>
 ```
