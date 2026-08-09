@@ -1,20 +1,15 @@
-````md
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                        RaiZen094                                 ║
-  ║            Software Engineering • DevOps • Systems              ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  ============================================================
+                         RaiZen094
+         Software Engineering • Backend • DevOps
+  ============================================================
 -->
-
-<!-- =============================================================== -->
-<!-- HERO                                                            -->
-<!-- =============================================================== -->
 
 <div align="center">
 
-# Hey, I'm RaiZen 👋
+<h1>Hey, I'm RaiZen 👋</h1>
 
-### `Software Engineer • Full-stack Developer • DevOps Enthusiast`
+<h3>Software Engineer • Full-stack Developer • DevOps Enthusiast</h3>
 
 <p>
   I build things that are
@@ -32,45 +27,41 @@
   ⚡ Zenitsu
 </p>
 
-<br/>
+<br>
 
-<!-- Anime GIF — kept unchanged -->
 <img
   src="assets/tech.gif"
   alt="Sanemi / Zenitsu"
   width="540"
-  style="border-radius:16px; margin-top:6px;"
 />
 
-<br/><br/>
-
-<!-- QUICK LINKS -->
+<br><br>
 
 <a href="https://raizen094.github.io/">
   <img
-    src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white"
+    src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Portfolio"
   />
 </a>
 
 <a href="mailto:raiyan.fzs845@gmail.com">
   <img
-    src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
     alt="Email"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/golam-mostofa-4b5357359">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
     alt="LinkedIn"
   />
 </a>
 
-<br/><br/>
+<br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=RaiZen094&style=for-the-badge&color=24292f&label=PROFILE+VIEWS"
+  src="https://komarev.com/ghpvc/?username=RaiZen094&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"
   alt="Profile Views"
 />
 
@@ -78,269 +69,163 @@
 
 ---
 
-<!-- =============================================================== -->
-<!-- ABOUT                                                            -->
-<!-- =============================================================== -->
-
 ## `> whoami`
 
-```txt
+```text
 raiZen@github:~$ ./about_me
 
 🎓  BUET CSE
-💻  Full-stack + Backend + DevOps
-🧠  C / C++ / Java / Python / Rust
-⚙️  I enjoy turning ideas into production-ready systems
-☁️  Containers, CI/CD, cloud deployment and automation
-🗄️  PostgreSQL / Oracle
-🔥  Currently improving APIs, pipelines and developer experience
+💻  Full-stack • Backend • DevOps
+🧠  C • C++ • Java • Python • Rust
+⚙️  Turning ideas into production-ready systems
+☁️  Containers • CI/CD • Cloud • Automation
+🗄️  PostgreSQL • Oracle
 
 raiZen@github:~$ echo $PHILOSOPHY
 
-"Build it. Break it. Understand it. Automate it."
-````
+Build it.
+Break it.
+Understand it.
+Automate it.
+Ship it.
+```
 
 ---
 
-<!-- =============================================================== -->
-
-<!-- TECH STACK                                                       -->
-
-<!-- =============================================================== -->
-
 <div align="center">
 
-## ⚡ Engineering Arsenal
+<h2>⚡ Engineering Arsenal</h2>
 
-<sub>
-The tools and technologies I actually enjoy building with.
-</sub>
+<p><i>The tools I like turning caffeine into software with.</i></p>
 
-<br/><br/>
+<h3>Languages</h3>
 
-### `LANGUAGES`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="C" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="55" alt="Rust" />
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-height="54"
-alt="C"
-/>
-  
+<br><br>
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-height="54"
-alt="C++"
-/>
-  
+<h3>Frontend</h3>
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-height="54"
-alt="Java"
-/>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="Next.js" />
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-height="54"
-alt="Python"
-/>
-  
+<br><br>
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"
-height="54"
-alt="Rust"
-/>
+<h3>Backend</h3>
 
-<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="Spring Boot" />
 
-### `FRONTEND`
+<br><br>
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-height="54"
-alt="React"
-/>
-  
+<h3>Databases</h3>
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-height="54"
-alt="Next.js"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" alt="Oracle" />
 
-<br/><br/>
+<br><br>
 
-### `BACKEND`
+<h3>DevOps & Cloud</h3>
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-height="54"
-alt="Node.js"
-/>
-  
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-height="54"
-alt="Spring Boot"
-/>
-
-<br/><br/>
-
-### `DATABASES`
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-height="54"
-alt="PostgreSQL"
-/>
-  
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-height="54"
-alt="Oracle"
-/>
-
-<br/><br/>
-
-### `DEVOPS & CLOUD`
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-height="54"
-alt="Docker"
-/>
-  
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-height="54"
-alt="Azure"
-/>
-  
-
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"
-height="54"
-alt="GitHub Actions"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="Docker" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55" alt="Azure" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="55" alt="GitHub Actions" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" />
 
 </div>
 
 ---
 
-<!-- =============================================================== -->
+## 🛠️ What I Build
 
-<!-- WHAT I BUILD                                                     -->
+### 🌐 Full-stack Applications
 
-<!-- =============================================================== -->
-
-## 🛠️ What I Like Building
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Full-stack Systems
-
-I like building applications where the frontend isn't just pretty and the backend isn't held together by prayers.
+I like building systems where the frontend looks good **and** the backend can survive contact with reality.
 
 ```text
 React / Next.js
-       ↓
-    REST APIs
-       ↓
+       │
+       ▼
+    REST API
+       │
+       ▼
  Node / Spring
-       ↓
+       │
+       ▼
 PostgreSQL / Oracle
 ```
 
-</td>
+### ⚙️ Backend Systems
 
-<td width="50%" valign="top">
+I care about the parts users usually never see:
 
-### ⚙️ Backend Engineering
-
-I care about the things users usually never see:
-
-* API design
-* Data modeling
-* Authentication
-* Authorization
-* Validation
-* Error handling
-* Maintainability
-* Testing
-* Performance
-* Developer experience
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+- API design
+- Authentication & authorization
+- Data modeling
+- Validation
+- Error handling
+- Database design
+- Testing
+- Performance
+- Maintainability
+- Developer experience
 
 ### 🐳 DevOps
 
-Taking:
+Turning:
 
 ```text
 "It works on my machine."
 ```
 
-and turning it into:
+into:
 
 ```text
 "It works everywhere."
 ```
 
-Containerized services, reproducible environments and automated delivery pipelines.
-
-</td>
-
-<td width="50%" valign="top">
+Containerized environments, automated pipelines and repeatable deployments.
 
 ### ☁️ Delivery
 
-Removing repetitive manual work from the development lifecycle.
-
 ```text
-Code
- ↓
-GitHub
- ↓
-CI / Tests
- ↓
-Docker
- ↓
-Azure
- ↓
-Production 🚀
+       CODE
+         │
+         ▼
+      GitHub
+         │
+         ▼
+   CI / Testing
+         │
+         ▼
+      Docker
+         │
+         ▼
+       Azure
+         │
+         ▼
+   Production 🚀
 ```
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-<!-- =============================================================== -->
-
-<!-- CURRENT FOCUS                                                    -->
-
-<!-- =============================================================== -->
-
 <div align="center">
 
-## 🔥 Current Focus
+<h2>🔥 Current Focus</h2>
 
 </div>
 
@@ -351,19 +236,19 @@ currently_exploring:
     - typed APIs
     - scalable service design
     - clean architecture
-    - production-ready APIs
+    - production-ready systems
 
   devops:
     - CI/CD pipelines
     - containerized workflows
-    - cloud deployment
     - deployment automation
+    - cloud infrastructure
 
   engineering:
-    - maintainable systems
+    - maintainable code
     - better developer experience
+    - strong fundamentals
     - faster feedback loops
-    - writing cleaner code
 
 rule:
   - "If it can be automated, automate it."
@@ -371,211 +256,122 @@ rule:
 
 ---
 
-<!-- =============================================================== -->
+## 🧠 Engineering Mindset
 
-<!-- ENGINEERING STYLE                                                -->
-
-<!-- =============================================================== -->
-
-<div align="center">
-
-## 🧠 How I Think About Engineering
-
-</div>
-
-<table>
-<tr>
-
-<td width="25%" align="center" valign="top">
-
-### `01`
-
-### Understand
-
-Know what you're building
-before choosing how to build it.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### `02`
-
-### Build
-
-Turn ideas into
-something real.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### `03`
-
-### Break
-
-Find the assumptions
-that don't survive reality.
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### `04`
-
-### Improve
-
-Refactor. Automate.
-Repeat.
-
-</td>
-
-</tr>
-</table>
+| `01` Understand | `02` Build | `03` Break | `04` Improve |
+|:---:|:---:|:---:|:---:|
+| Understand the problem before choosing the technology. | Turn the idea into something that actually works. | Find assumptions that don't survive reality. | Refactor, automate, learn and repeat. |
 
 ---
 
-<!-- =============================================================== -->
-
-<!-- DEV WORKFLOW                                                     -->
-
-<!-- =============================================================== -->
-
-## ⚙️ My Preferred Development Loop
+## ⚙️ Development Loop
 
 ```text
-          ┌───────────────┐
-          │     IDEA      │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │    DESIGN     │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │     BUILD     │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │     TEST      │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │   AUTOMATE    │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │     SHIP      │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │    IMPROVE    │
-          └───────┬───────┘
-                  │
-                  └───────────────↺
+                ┌──────────────┐
+                │     IDEA     │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │    DESIGN    │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │    BUILD     │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │     TEST     │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │   AUTOMATE   │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │     SHIP     │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │   IMPROVE    │
+                └──────┬───────┘
+                       │
+                       └──────────── ↻
 ```
 
 ---
-
-<!-- =============================================================== -->
-
-<!-- PRINCIPLES                                                       -->
-
-<!-- =============================================================== -->
 
 ## 🧩 Things I Care About
 
 ```diff
 + Clean APIs
++ Strong fundamentals
++ Maintainable code
 + Predictable systems
 + Good abstractions
 + Useful automation
 + Reproducible environments
-+ Maintainable code
-+ Strong fundamentals
 + Simple solutions to complicated problems
 
 - Unnecessary complexity
-- Manual repetitive work
+- Repetitive manual work
+- Magic nobody understands
 - "We'll fix it later"
 - Production debugging at 3 AM
 ```
 
 ---
 
-<!-- =============================================================== -->
-
-<!-- GITHUB STATS                                                     -->
-
-<!-- =============================================================== -->
-
 <div align="center">
 
-## 📊 GitHub Transmission
+<h2>📊 GitHub Transmission</h2>
 
-<br/>
+<br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=RaiZen094&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github"
-height="165"
-alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=RaiZen094&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github"
+  height="165"
+  alt="GitHub Stats"
 />
 
 <img
-src="https://streak-stats.demolab.com?user=RaiZen094&theme=transparent&hide_border=true"
-height="165"
-alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=RaiZen094&theme=transparent&hide_border=true"
+  height="165"
+  alt="GitHub Streak"
 />
 
-<br/><br/>
+<br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&theme=transparent&hide_border=true&langs_count=10"
-height="165"
-alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiZen094&layout=compact&theme=transparent&hide_border=true&langs_count=10"
+  height="165"
+  alt="Top Languages"
 />
 
 </div>
 
 ---
 
-<!-- =============================================================== -->
-
-<!-- ACTIVITY GRAPH                                                   -->
-
-<!-- =============================================================== -->
-
 <div align="center">
 
-## 📈 Contribution Activity
+<h2>📈 Contribution Activity</h2>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=RaiZen094&theme=github-compact&hide_border=true&area=true"
-width="95%"
-alt="GitHub Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RaiZen094&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+  alt="GitHub Contribution Graph"
 />
 
 </div>
 
 ---
-
-<!-- =============================================================== -->
-
-<!-- CODE PHILOSOPHY                                                  -->
-
-<!-- =============================================================== -->
-
-<div align="center">
 
 ## 💭 Code Philosophy
-
-</div>
 
 ```python
 class RaiZen:
@@ -590,6 +386,7 @@ class RaiZen:
 
     def solve(self, problem):
         understand(problem)
+        design()
         build()
         test()
         break_things()
@@ -601,36 +398,24 @@ class RaiZen:
 
 ---
 
-<!-- =============================================================== -->
-
-<!-- FUN SECTION                                                      -->
-
-<!-- =============================================================== -->
-
 ## 🎮 Outside the Terminal
 
-```txt
-football        → Real Madrid ⚽
-anime           → Demon Slayer
-favorites       → Sanemi 🗡️ + Zenitsu ⚡
-debugging       → print() until enlightenment
-coffee          → probably required
-automation      → yes
+```text
+football       → Real Madrid ⚽
+anime          → Demon Slayer
+favorites      → Sanemi 🗡️ + Zenitsu ⚡
+debugging      → print() until enlightenment
+automation     → absolutely
+coffee         → dependency
 ```
 
 ---
 
-<!-- =============================================================== -->
-
-<!-- CONTACT                                                          -->
-
-<!-- =============================================================== -->
-
 <div align="center">
 
-## 🌐 Find Me Somewhere on the Internet
+<h2>🌐 Find Me Somewhere on the Internet</h2>
 
-<br/>
+<br>
 
 <a href="mailto:raiyan.fzs845@gmail.com">
   <img
@@ -653,39 +438,25 @@ automation      → yes
   />
 </a>
 
-<a href="https://your-cdn.com/Resume_RaiZen094.pdf">
-  <img
-    alt="Resume"
-    src="https://img.shields.io/badge/Resume-0B0D10?style=for-the-badge&logo=readme&logoColor=white&labelColor=161B22"
-  />
-</a>
+<br><br>
 
-<br/><br/>
+<h3>「 Code. Ship. Learn. Repeat. 」</h3>
 
----
+<p>
+  <sub>
+    ⚡ Powered by curiosity, caffeine, questionable debugging decisions,
+    and an unreasonable desire to automate everything.
+  </sub>
+</p>
 
-### `「 Code. Ship. Learn. Repeat. 」`
-
-<sub>
-⚡ Powered by curiosity, caffeine, questionable debugging decisions,
-and an unreasonable desire to automate everything.
-</sub>
-
-<br/><br/>
+<br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"
-width="100%"
-alt="Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"
+  width="100%"
+  alt="Footer"
 />
 
 </div>
 
-<!-- =============================================================== -->
-
-<!-- EOF                                                              -->
-
-<!-- =============================================================== -->
-
-```
-```
+<!-- EOF -->
