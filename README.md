@@ -1,4 +1,4 @@
-````md
+
 <!-- =========================================================
      GitHub Profile README — RaiZen094
      Theme: Dark • Cyber • Minimal • Anime-inspired
